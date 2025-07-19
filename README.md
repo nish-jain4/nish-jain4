@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="180" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark"  />
+<br clear="both">
+
+<img align="right" height="187" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark"  />
 
 ###
 
