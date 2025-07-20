@@ -71,11 +71,32 @@
 ###
 
 <div align="left">
+  <a href="mailto:nishthajain411@gmail.com" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  
+   <a href="https://www.linkedin.com/in/nishtha-jain411/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+   </a>
+  
+   <a href="https://discord.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+   </a>
+  
+  <a href= "https://github.com/nish-jain4" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/nishthajain411" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  
+  <a href="https://stackoverflow.com/users/28751603/nish-jain" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+
+<a href="https://replit.com/~" target="_blank">
+   <img src="https://cdn.simpleicons.org/replit/F26207" width="52" height="40" alt="replit logo"  />
+  </a>
 </div>
 
 ###
