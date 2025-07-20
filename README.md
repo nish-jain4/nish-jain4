@@ -86,9 +86,15 @@
   <a href= "https://github.com/nish-jain4" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github logo" />
   </a>
+  
   <a href="https://www.hackerrank.com/profile/nishthajain411" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
+
+  
+<a href="https://leetcode.com/u/nish-jain/" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=256"  width="52" height="40" alt="leetcode logo"  />
+</a>
   
   <a href="https://stackoverflow.com/users/28751603/nish-jain" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
